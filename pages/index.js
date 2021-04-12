@@ -22,7 +22,7 @@ export default function Home() {
               price='25'
               reverse={true}/>
         <Card title='Fully Custom Personal Keyboard Case'
-              body='I will work with you personally to construct your dream setup. We will work together to select all your components, materials, and design.'
+              body='I will work with you to construct the case of your dreams. We will work together to select the perfect materials, refine the design and choose the components.  Expect the process to take 6 months and I will only be making two per year.  This price includes a $200 material allowance.'
               image="keyboard.jpg"
               price='2000'/>
       </main>

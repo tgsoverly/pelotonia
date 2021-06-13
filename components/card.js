@@ -13,7 +13,7 @@ export default function Card({title, body, price, image, reverse = false}) {
           </div>
           <div className="font-semibold pt-5">
             <a className=" bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
-               href="https://pelotonia.org/donate?recipient=TO0043&recipientType=User"
+               href="https://pelotonia.org/donate?recipient=MO740354&recipientType=User"
                target="_blank">${price}</a>
           </div>
         </div>
